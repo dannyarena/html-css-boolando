@@ -6,24 +6,18 @@
 
 .card {
   width: calc(100% / 3);
+  
+  
 }
 
-.card-img.first {
+.card-img {
     width: 100%;
-}
-
-.second
-{
-    width: 100%;
-}
-
-.third
-{
-    width: 100%;
+    
 }
 
 .row {
   display: flex;
+  
 }
 
 container {
